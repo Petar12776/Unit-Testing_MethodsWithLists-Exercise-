@@ -1,0 +1,14 @@
+# Build and user files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Other common files to ignore
+*.dll
+*.exe
+*.db
+*.DS_Store
