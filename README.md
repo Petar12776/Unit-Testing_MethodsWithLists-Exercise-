@@ -1,4 +1,4 @@
-# Unit-Testing_MethodsWithLists-Exercise-
+# Unit-Testing_MethodsWithLists-Exercise
 This repository contains a collection of Automated Unit Tests verifying the functionality and behaviour of methods with lists using NUnit. 
 
 How To Run the Unit-Tests You can run all tests either from Visual Studio or the .NET CLI.
